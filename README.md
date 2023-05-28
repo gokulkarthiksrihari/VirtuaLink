@@ -46,7 +46,9 @@ The Unity project offers the following key features:
 
 5. **Attractive Environment**: The project provides an immersive and visually appealing environment that enhances the collaborative experience, making sessions more engaging and enjoyable.
 
-6. **Multiple User Support**: Users can join collaborative sessions and interact with other participants in real time, fostering collaboration and communication.
+6. **Customisable Avartars**: Make your collaboration session more engaging by customizing your avatar. Our platform offers a variety of options to help you personalize your experience and connect with your team on a deeper level.
+
+7. **Multiple User Support**: Users can join collaborative sessions and interact with other participants in real time, fostering collaboration and communication.
 
 
 ## System Requirements (Windows)
