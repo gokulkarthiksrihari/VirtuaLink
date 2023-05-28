@@ -2,7 +2,7 @@
 
 This repository contains a Unity project focused on creating an immersive and mixed reality experience for online collaborative sessions. The project leverages various technologies to provide features such as voice chat, video chat, multiplayer functionality, and token-based authentication.
 
-> ### Important Notice: Download Build Files from Github
+>` ### Important Notice: Download Build Files from Github
 
 >Please ensure that you download the build files exclusively from our official Github repository. We strongly advise against using files obtained from Google Drive, as they may not function correctly.
 
@@ -14,7 +14,7 @@ Files downloaded from Google Drive might encounter compatibility problems or lac
 
 >By following this recommendation, you will have a seamless experience with our software and enjoy its full functionality without any disruptions.
 
->Thank you for your cooperation!
+>Thank you for your cooperation! `
 
 ## Table of Contents
 - [Code Files](#code-files)
