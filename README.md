@@ -14,7 +14,7 @@ Files downloaded from Google Drive might encounter compatibility problems or lac
 
 By following this recommendation, you will have a seamless experience with our software and enjoy its full functionality without any disruptions.
 
-Thank you for your cooperation! `
+Thank you for your cooperation!`
 
 ## Table of Contents
 - [Code Files](#code-files)
