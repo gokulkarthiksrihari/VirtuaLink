@@ -2,16 +2,35 @@
 
 This repository contains a Unity project focused on creating an immersive and mixed reality experience for online collaborative sessions. The project leverages various technologies to provide features such as voice chat, video chat, multiplayer functionality, and token-based authentication.
 
+### Important Notice: Download Build Files from Github
+
+Please ensure that you download the build files exclusively from our official Github repository. We strongly advise against using files obtained from Google Drive, as they may not function correctly.
+
+**Why choose Github for the Build Files?**
+Downloading the build files from Github guarantees the latest and most stable version of our software. Our team regularly updates and maintains the files on Github, ensuring optimal performance and compatibility.
+
+**Avoid Issues with Google Drive Downloads**
+Files downloaded from Google Drive might encounter compatibility problems or lack the necessary dependencies. To prevent any unforeseen issues or errors, it is crucial to obtain the build files directly from our verified Github repository.
+
+By following this recommendation, you will have a seamless experience with our software and enjoy its full functionality without any disruptions.
+
+Thank you for your cooperation!
+
 ## Table of Contents
+- [Code Files](#code-files)
 - [Demo Video](#demo-video)
 - [Tech Stacks Used](#tech-stacks-used)
 - [Features](#features)
 - [System Requirements (Windows)](#system-requirements-windows)
 - [Network Requirements](#network-requirements)
 - [Limitations](#limitations)
-- [Code Files](#code-files)
 - [Usage](#usage)
 
+## Code Files
+The projects main build can be found in the [Github](https://github.com/gokulkarthiksrihari/Virtulink)
+The project's code files can be found in the [Google Drive](link-to-your-google-drive) associated with this repository. It contains all the necessary scripts, assets, and configurations required to build and run this Unity project.
+
+Please refer to the code files for a detailed understanding of the implementation and customization possibilities.
 
 ## Demo Video
 
@@ -91,12 +110,6 @@ The project has some limitations in the following tech stacks:
    - Scalability may be limited depending on the number of simultaneous connections.
    - The free plan has limitations on requests and certain advanced features.
    - Token generation and validation may introduce additional latency.
-
-## Code Files
-The projects main build can be found in the [Github](https://github.com/gokulkarthiksrihari/VirtuaLink)
-The project's code files can be found in the [Google Drive](link-to-your-google-drive) associated with this repository. It contains all the necessary scripts, assets, and configurations required to build and run this Unity project.
-
-Please refer to the code files for a detailed understanding of the implementation and customization possibilities.
 
 ## Usage
 
