@@ -2,6 +2,8 @@
 
 This repository contains a Unity project focused on creating an immersive and mixed reality experience for online collaborative sessions. The project leverages various technologies to provide features such as voice chat, video chat, multiplayer functionality, and token-based authentication.
 
+>### Note: To enable cursor (mouse) Press "B" during runtime.
+
 >### Important Notice: Download Build Files from Github
    >Please ensure that you download the build files exclusively from our official Github repository. We strongly advise against using files obtained from Google Drive, as they may not function correctly.
 
